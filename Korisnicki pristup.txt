@@ -1,0 +1,7 @@
+Administrator:
+Username: nikolic@live.com
+Password: 123
+
+Obican Korisnik:
+Username: andrej@gmail.com
+Password: 123
